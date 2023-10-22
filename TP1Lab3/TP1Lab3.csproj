@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EA78967C-1927-46AD-A5FC-06BB486A71F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TP1Lab3</RootNamespace>
+    <AssemblyName>TP1Lab3</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Build.Utilities.v4.0" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAgregarRepar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarRepar.Designer.cs">
+      <DependentUpon>frmAgregarRepar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrafico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrafico.Designer.cs">
+      <DependentUpon>frmGrafico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarAuto.Designer.cs">
+      <DependentUpon>frmAgregarAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsAuto.cs" />
+    <Compile Include="clsClienteMain.cs" />
+    <Compile Include="clsReparacion.cs" />
+    <Compile Include="clsRepuesto.cs" />
+    <Compile Include="frmAgregarRepu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarRepu.Designer.cs">
+      <DependentUpon>frmAgregarRepu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlstAutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlstAutos.Designer.cs">
+      <DependentUpon>frmlstAutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlstClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlstClientes.Designer.cs">
+      <DependentUpon>frmlstClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlstReparaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlstReparaciones.Designer.cs">
+      <DependentUpon>frmlstReparaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlstRepuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlstRepuestos.Designer.cs">
+      <DependentUpon>frmlstRepuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcercaDe.Designer.cs">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarCliente.Designer.cs">
+      <DependentUpon>frmAgregarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAgregarRepar.resx">
+      <DependentUpon>frmAgregarRepar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrafico.resx">
+      <DependentUpon>frmGrafico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarAuto.resx">
+      <DependentUpon>frmAgregarAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarRepu.resx">
+      <DependentUpon>frmAgregarRepu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlstAutos.resx">
+      <DependentUpon>frmlstAutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlstClientes.resx">
+      <DependentUpon>frmlstClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlstReparaciones.resx">
+      <DependentUpon>frmlstReparaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlstRepuestos.resx">
+      <DependentUpon>frmlstRepuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAcercaDe.resx">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarCliente.resx">
+      <DependentUpon>frmAgregarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FotoMia.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo nebulosa claro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Principal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loto peque.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\LogoFuego.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\LogoEstetico.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ImagenTaller.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Repuestos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\TallerMecanico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ParlanteButton.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

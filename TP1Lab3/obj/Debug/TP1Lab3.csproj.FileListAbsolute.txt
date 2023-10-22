@@ -1,0 +1,90 @@
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\bin\Debug\TP1Lab3.exe.config
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\bin\Debug\TP1Lab3.exe
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\bin\Debug\TP1Lab3.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.csproj.AssemblyReference.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmMain.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmAcercaDe.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.Properties.Resources.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.csproj.GenerateResource.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.csproj.CoreCompileInputs.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.exe
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarAuto.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarRepu.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmlstAutos.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmlstClientes.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmlstReparaciones.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmlstRepuestos.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmGrafico.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarCliente.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarRepar.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\bin\Debug\TP1Lab3.exe.config
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\bin\Debug\TP1Lab3.exe
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\bin\Debug\TP1Lab3.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.csproj.AssemblyReference.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarRepar.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmGrafico.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarAuto.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarRepu.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmlstAutos.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmlstClientes.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmlstReparaciones.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmlstRepuestos.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmMain.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmAcercaDe.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarCliente.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.Properties.Resources.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.csproj.GenerateResource.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.csproj.CoreCompileInputs.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.exe
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy\TP1Lab3\obj\Debug\TP1Lab3.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\TP1Lab3.exe.config
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\TP1Lab3.exe
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\TP1Lab3.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.AssemblyReference.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarRepar.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmGrafico.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarAuto.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarRepu.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmlstAutos.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmlstClientes.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmlstReparaciones.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmlstRepuestos.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmMain.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAcercaDe.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarCliente.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.Properties.Resources.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.GenerateResource.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.CoreCompileInputs.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.exe
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.CopyComplete
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\TP1Lab3.exe.config
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\TP1Lab3.exe
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\TP1Lab3.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.AssemblyReference.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarRepar.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmGrafico.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarAuto.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarRepu.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmlstAutos.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmlstClientes.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmlstReparaciones.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmlstRepuestos.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmMain.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAcercaDe.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.frmAgregarCliente.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.Properties.Resources.resources
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.GenerateResource.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.CoreCompileInputs.cache
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.csproj.CopyComplete
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.exe
+C:\Users\54228\Documents\Analista en Sistemas\Práctica Profesionalizante 1 de Informática - Laboratorio 3 (A)\Ejercicios Lab 3\Trabajo Final\TP1Lab3 - Copy - Trabajo Parcial\TP1Lab3\obj\Debug\TP1Lab3.pdb
